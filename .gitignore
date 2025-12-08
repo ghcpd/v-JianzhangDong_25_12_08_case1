@@ -1,0 +1,15 @@
+# Python virtual environment
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+$py.class
+
+# pytest and logs
+.pytest_cache/
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db

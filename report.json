@@ -1,0 +1,15 @@
+{
+  "issues": [
+    { "id": 1, "package": "numpy", "original_version": "1.24.0", "updated_version": "2.3.5", "reason": "Upgrade to a recent NumPy release that supports Python 3.14." },
+    { "id": 2, "package": "pandas", "original_version": "1.5.0", "updated_version": "2.3.3", "reason": "Upgrade to Pandas 2.x release supporting Python 3.14 and improvements." },
+    { "id": 3, "package": "matplotlib", "original_version": "3.5.0", "updated_version": "3.10.7", "reason": "Use a Matplotlib version that supports the latest Python release." },
+    { "id": 4, "package": "requests", "original_version": "2.25.0", "updated_version": "2.32.5", "reason": "Security fixes and compatibility with modern Python." },
+    { "id": 5, "package": "pyyaml", "original_version": "5.3.1", "updated_version": "6.0.3", "reason": "Patch CVEs and ensure compatibility with newer Python." },
+    { "id": 6, "package": "scipy", "original_version": "1.9.0", "updated_version": "1.16.3", "reason": "Update to SciPy release compatible with Python 3.14." },
+    { "id": 7, "package": "regex", "original_version": "2021.4.4", "updated_version": "2025.11.3", "reason": "Use the most recent regex release to avoid old bugs and ensure compatibility." },
+    { "id": 8, "package": "tqdm", "original_version": "4.32.0", "updated_version": "4.67.1", "reason": "Upgrade to a maintained tqdm release compatible with current Python." },
+    { "id": 9, "package": "lxml", "original_version": "4.6.1", "updated_version": "6.0.2", "reason": "Update to a recent lxml release with security fixes and Python compatibility." },
+    { "id": 10, "package": "typing_extensions", "original_version": "3.7.4", "updated_version": "4.15.0", "reason": "Use a current typing_extensions that supports modern typing features and Python." },
+    { "id": 11, "package": "pytest", "original_version": "", "updated_version": "9.0.2", "reason": "Pin pytest to a recent stable release that supports Python 3.14." }
+  ]
+}

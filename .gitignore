@@ -1,0 +1,7 @@
+.venv/
+logs/
+__pycache__/
+*.pyc
+tmp.csv
+plot.png
+requirements_backup.txt
